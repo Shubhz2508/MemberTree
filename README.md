@@ -1,6 +1,5 @@
-﻿# MemberTree
+﻿# MemberTree Made to illustrate my pro-efficiency in PHP
 
-**Attached Screenshots of Application 
 ![Screenshot (22)](https://github.com/Shubhz2508/MemberTree/assets/117626394/553ac153-6c5a-45ef-9ab0-e226bf3a3798)
 
 ![Screenshot (23)](https://github.com/Shubhz2508/MemberTree/assets/117626394/a9a3c77b-22f5-4b61-96f8-cdb730da0584)
